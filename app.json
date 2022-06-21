@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "rn-shopping-app-navigation-5.0",
-    "slug": "rn-shopping-app-navigation-5.0",
+    "slug": "rn-shopping-app-navigation",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
